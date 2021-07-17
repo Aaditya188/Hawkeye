@@ -1,7 +1,5 @@
 # Hawkeye
 
-# Submission by Team GUARDIANS for DoubleSlash
-
 As the world advances in its journey towards automation and machine intelligence, equipping cutting-edge hardware with intelligent instincts grows in its importance. As intellect is for humans, software is for machines, hence we present an amalgamation of critically useful visionary skill sets for tracking, surveillance and unguided machine transportation. Autonomous unmanned ground vehicles comprise several technologies that allow the machine to be self-acting and self-regulating, sans human intervention.
 
 
